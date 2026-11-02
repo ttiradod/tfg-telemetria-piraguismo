@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-scipy
-geographiclib
-utm
-reportlab
-pyserial
